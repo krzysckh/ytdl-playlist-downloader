@@ -10,8 +10,10 @@ youtube-dl playlist downloading script
       - ```sudo wget https://yt-dl.org/downloads/latest/youtube-dl -O /usr/local/bin/youtube-dl```
       - ```sudo chmod a+rx /usr/local/bin/youtube-dl```
       - ```youtube-dl -U```
+    - install ffmpeg
+      - ```sudo apt-get install ffmpeg```
   - on windows
-    - install python3 and youtube-dl with a package manager or how you like it idk
+    - install python3 and youtube-dl aand ffmpeg with a package manager or how you like it and add it to ```PATH``` idk
 2. clone the repo
   - ```git clone https://github.com/krzysckh/ytdl-playlist-downloader```
   - ```cd ytdl-playlist-downloader```
