@@ -1,7 +1,7 @@
 # ytdl-playlist-downloader
 youtube-dl playlist downloading script
 
-#how to use it?
+# how to use it?
 1. install dependencies
   - on linux
     - install python3
