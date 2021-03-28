@@ -19,6 +19,7 @@ youtube-dl playlist downloading script
   - ```cd ytdl-playlist-downloader```
 3. create a file with songs
   - name the file however you want and format it like this:
+  - 
   ```testfile.txt```
   ```
   LOOK MUM NO COMPUTER - MODERN GAS
