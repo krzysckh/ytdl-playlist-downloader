@@ -33,4 +33,6 @@ youtube-dl playlist downloading script
 5. the script will prompt you for name of file with songs and number of songs
 6. wait
 7. profit?
+8. btw look at this cool badge i have
+9. [![Language grade: Python](https://img.shields.io/lgtm/grade/python/g/krzysckh/ytdl-playlist-downloader.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/krzysckh/ytdl-playlist-downloader/context:python)
 
